@@ -4,9 +4,12 @@
   position: absolute;
   right: 0;
   top: 0;
+  opacity(0.7);
+  border: 5px solid white;
+  -webkit-backdrop-filter: blur(9px);
   transition: all 0.45s ease;
   z-index: 1030;
-  background: #282828; }
+   }
   .navbar-dropdown .navbar-logo {
     margin-right: 0.8rem;
     transition: margin 0.3s ease-in-out;
