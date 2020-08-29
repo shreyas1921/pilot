@@ -51,7 +51,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/background4.jpeg"
       },
       "components": [
         {
@@ -2391,15 +2392,15 @@
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "postToLoad": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "postToLoad": "5",
             "facebookToken": "",
             "facebook": "",
-            "twitter": "mobirise",
+            "twitter": "bhogleharsha",
             "youtube": "UCt_tncVAetpK5JeM8L-8jyw",
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#55b4d4",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "overlay": true,
